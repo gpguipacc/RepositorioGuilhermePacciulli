@@ -1,0 +1,20 @@
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MAPA 22\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pacci\OneDrive\Área de Trabalho\Trabalho Feito\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
